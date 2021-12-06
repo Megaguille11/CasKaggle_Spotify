@@ -1,4 +1,4 @@
-# CasKaggle_Spotify
+# Cas Kaggle: Spotify Music DataBase
 ## Repositori corresponent al cas Kaggle aplicat sobre la base de dades de Spotify
 ## Autor: Guillem Centelles Pavon
 
