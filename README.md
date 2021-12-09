@@ -29,4 +29,4 @@ Com ja s'ha especificat en el títol, la base de dades seleccionada per a aquest
 * _time_signature_: Estimació del compàs de la cançó, és a dir, en número de pulsacions d'aquesta per cada unitat de mesura.
 * _valence_: Mesura del "positivisme" de la cançó, a major valor, més alegre i eufòrica és la cançó (Decimal en el rang (0, 1)). 
 
-En el notre cas, establirem com a variable objectiu l'anomenada acousticness, sobre la qual crearem un model classificador que sigui capaç de decidir si una cançó és acústica o no.
+En el notre cas, establirem com a variable objectiu l'anomenada acousticness, sobre la qual crearem diferents models classificadors que sigui capaç de decidir si una cançó és acústica o no i compararem els seus resultats.
