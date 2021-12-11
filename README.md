@@ -1,6 +1,6 @@
 # Cas Kaggle: Spotify Music DataBase
 ## Repositori corresponent al cas Kaggle aplicat sobre la base de dades de Spotify
-(https://github.com/Megaguille11/CasKaggle_Spotify)
+https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db
 ### Autor: Guillem Centelles Pavon
 
 En aquest repositori es troba la feina realitzada per tal de crear un model classificador capaç de prediure si una cançó és acústica a partir d'atributs tècnics d'aquesta.
