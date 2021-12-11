@@ -31,3 +31,14 @@ Com ja s'ha especificat en el títol, la base de dades seleccionada per a aquest
 * _valence_: Mesura del "positivisme" de la cançó, a major valor, més alegre i eufòrica és la cançó (Decimal en el rang (0, 1)). 
 
 En el notre cas, establirem com a variable objectiu l'anomenada acousticness, sobre la qual crearem diferents models classificadors que sigui capaç de decidir si una cançó és acústica o no i compararem els seus resultats.
+
+## Resultats
+
+| Model | Temps d'execució | Accuracy del test |
+|-----------|:------------|:-----------:|
+| Regressió Logística | 0.4715 s | 87.00% | 
+| Decision Tree | 2.3490 s | 87.77% |
+| Random Forest (100 arbres) | 36.7268 s | 92.18% |
+| Random Forest (200 arbres) | 77.6756 s | 92.25% |
+| K-Nearest Neighbors (K = 5) | 68.9664 s | 87.74% |
+| K-Nearest Neighbors (K = 10) | 213.0671 s | 87.70% |
