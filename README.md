@@ -22,7 +22,7 @@ Com ja s'ha especificat en el títol, la base de dades seleccionada per a aquest
 * _energy_: Mesura que representa la percepció general sobre la intensitat i activitat d'una cançó, amb l'exemple d'una cançó de heavy metal puntuant alt en aquesta categoria i un preludi de Bachuntuant baix (Decimal en el rang (0, 1)).
 * _instrumentalness_: Probabilitat que la cançó no sigui cantada (tractant expressions com "Ooh" i "aah" com a part instrumental. Decimal en el rang (0, 1)).
 * _key_: Clau musical en la que la cançó ha estat composta.
-* _liveness_: Probabilitat de que la cançó sigui una grabació del artista tocan amb públic (Decimal en el rang (0, 1)).
+* _liveness_: Probabilitat de que la cançó sigui una grabació del artista tocant amb públic (Decimal en el rang (0, 1)).
 * _loudness_: La intensitat sonora mitjana d'una cançó mesurada en decibels (Normalment en el rang (-60, 0)).
 * _mode_: Modalitat de la cançó (Major o Menor).
 * _speechiness_: Presència de paraules parlades en una cançó, sent cançons amb valors contigut com podcasts o poesia recitada (Decimal en el rang (0, 1)).
